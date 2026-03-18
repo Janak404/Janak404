@@ -41,16 +41,11 @@ A system for managing emergency check-ins and ensuring safety compliance.
 
 ---
 
-## 📊 GitHub Stats
-
-![Janak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janak404\&show_icons=true\&theme=default)
-
----
 
 ## 🔗 Connect With Me
 
 * 📧 Email: [janakgautam3040@gmail.com](mailto:janakgautam3040@gmail.com)
-* 💼 LinkedIn: *(Add your LinkedIn link here)*
+* 💼 LinkedIn: *(https://www.linkedin.com/in/janak-gautam-dev/)*
 
 ---
 
